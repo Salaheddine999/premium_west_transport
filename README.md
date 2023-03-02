@@ -1,12 +1,12 @@
-Laravel app, responsible of reservation system for private driver.
+Laravel app, that manages reservation system of private drivers.
 
-<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc1.png" width="350" title="hover text">
-<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc2.png" width="350" title="hover text">
-<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc3.png" width="350" title="hover text">
-<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc4.png" width="350" title="hover text">
-<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc5.png" width="350" title="hover text">
-<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc6.png" width="350" title="hover text">
-<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc7.png" width="350" title="hover text">
+<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc1.png" width="800" title="hover text">
+<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc2.png" width="800" title="hover text">
+<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc3.png" width="800" title="hover text">
+<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc4.png" width="800" title="hover text">
+<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc5.png" width="800" title="hover text">
+<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc6.png" width="800" title="hover text">
+<img src="https://github.com/Salaheddine999/premium_west_transport/blob/main/images/vtc7.png" width="800" title="hover text">
 
 
 
